@@ -1,0 +1,9 @@
+# ninja log v6
+8	887	7393482797646163	CMakeFiles/raytracer.dir/main.cpp.obj	9e26acdd52a2af60
+29	1081	7393471610585983	CMakeFiles/raytracer.dir/ray.cpp.obj	20534931be3deb12
+888	1057	7393482806451111	raytracer.exe	adf24dabe2e0b7a4
+3	336	7394806032922387	build.ninja	dd12f67dbfe89a59
+12	1013	7393471610425977	CMakeFiles/raytracer.dir/image.cpp.obj	3aec49f64f04f847
+44	1171	7396873070008999	CMakeFiles/raytracer.dir/main.cpp.obj	9e26acdd52a2af60
+84	1173	7396873070419599	CMakeFiles/raytracer.dir/vec3.cpp.obj	6c37b9760a730440
+1173	1665	7396873081308112	raytracer.exe	5dc9504db07eca3e
